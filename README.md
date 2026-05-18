@@ -4,6 +4,12 @@
 
 Vue 3 + Element Plus 个人工作台：拖拽视频 → [WhisperX](https://replicate.com/victor-upmeet/whisperx) 转写 →  翻译为中文 → 导出 SRT。
 
+详细技术栈可参考./doc里的文件
+
+本项目为 本地运行的个人工具，需自行申请 API Key(replicate及jiekouAI）
+不会向仓库作者上传媒体或消耗作者额度；
+请勿将含真实密钥的 .env.local 提交到 Git。
+
 ## 环境要求
 
 - Node.js 18+（推荐 20+）
