@@ -2,7 +2,7 @@
 
 **当前版本：1.1.0** · 详见 [CHANGELOG.md](./CHANGELOG.md)
 
-Vue 3 + Element Plus 个人工作台：拖拽视频 → [WhisperX](https://replicate.com/victor-upmeet/whisperx) 转写 → OpenAI 翻译为中文 → 导出 SRT。
+Vue 3 + Element Plus 个人工作台：拖拽视频 → [WhisperX](https://replicate.com/victor-upmeet/whisperx) 转写 →  翻译为中文 → 导出 SRT。
 
 ## 环境要求
 
