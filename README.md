@@ -1,4 +1,4 @@
-# YTBT · 视频字幕翻译
+# YTBT · 视频字幕AI自动打轴翻译-生成Aegisub可识别.srt文件
 
 **当前版本：1.1.0** · 详见 [CHANGELOG.md](./CHANGELOG.md)
 
